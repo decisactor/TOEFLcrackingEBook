@@ -1,0 +1,13 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CD010204.txt</TPPassage>
+<Stem>4. The word |they| in the passage refers to</Stem>
+<Distractor_list>
+  <Distractor>(A) grains</Distractor>
+  <Distractor>(B) people</Distractor>
+  <Distractor>(C) elements</Distractor>
+  <Distractor>(D) harvests</Distractor>
+</Distractor_list>
+
+<Key>2</Key>
+</TestItem>

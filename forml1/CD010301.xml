@@ -1,0 +1,13 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+  <TPPassage>CD010301.txt</TPPassage>
+  <Stem>1. The word |convenience| in the passage is closest in meaning to</Stem>
+  <Distractor_list>
+    <Distractor>(A) comfort</Distractor>
+    <Distractor>(B) support</Distractor>
+    <Distractor>(C) aid</Distractor>
+    <Distractor>(D) luxury</Distractor>
+  </Distractor_list>
+
+<Key>3</Key>
+</TestItem>

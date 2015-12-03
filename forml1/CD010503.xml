@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+    <skillDimension>unknown</skillDimension>
+    <TPPassage>CP010103.txt</TPPassage>
+    <Paragraph>2</Paragraph>
+    
+    <Stem>3. According to paragraph 2 of the passage, an arthropod's shell is similar to human hair and fingernails in that</Stem>
+    <Distractor_list>
+        <Distractor>it contains few sensory cells</Distractor>
+        <Distractor>it has several distinct layers</Distractor>
+        <Distractor>it is made of dead tissue</Distractor>
+        <Distractor>it is mostly made of cellulose</Distractor>
+    </Distractor_list>
+
+    <Key>3</Key>
+</TestItem>

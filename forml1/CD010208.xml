@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CD010208.txt</TPPassage>
+<Paragraph>4</Paragraph>
+<TPTopScrollLine>41</TPTopScrollLine>
+<Stem>8. According to paragraph 4 of the passage, the first known national flag in history</Stem>
+<Distractor_list>
+  <Distractor>(A) was not carried into battle</Distractor>
+  <Distractor>(B) is still used in China today</Distractor>
+  <Distractor>(C) was copied by the Egyptians</Distractor>
+  <Distractor>(D) was not colored or patterned</Distractor>
+</Distractor_list>
+
+<Key>4</Key>
+</TestItem>

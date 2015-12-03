@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<Paragraph>7</Paragraph>
+<TPTopScrollLine>42</TPTopScrollLine>
+<TPPassage>CD010308.txt</TPPassage>
+<Stem>8. In paragraph 7, the author provides information about genetic studies to</Stem>
+<Distractor_list>
+  <Distractor>(A) suggest that researchers have ignored a crucial piece of evidence</Distractor>
+  <Distractor>(B) support an earlier assertion about the problem with classification</Distractor>
+  <Distractor>(C) argue that new studies will eventually prove that the salamanders are part of the same species</Distractor>
+  <Distractor>(D) assert that the presence of a common ancestor is the most likely explanation for the different types of salamanders found in the valley</Distractor>
+</Distractor_list>
+
+<Key>2</Key>
+</TestItem>

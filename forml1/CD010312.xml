@@ -1,0 +1,11 @@
+<TestItem CLASS="passage_insertText" METHOD="list">
+
+<TPPassage>CD010312.txt</TPPassage>
+
+<Stem>Look at the four squares [ |   | ] that indicate where the following sentence can be added to the passage.</Stem>
+<Distractor_list>
+   <Distractor>This definition is widely accepted by biologists and zoologists, but its application isn't always simple.</Distractor>
+</Distractor_list>
+
+<Key>3</Key>
+</TestItem>

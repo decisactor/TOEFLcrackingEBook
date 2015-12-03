@@ -1,0 +1,11 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+  <TPPassage>CD010404.txt</TPPassage>
+  <Stem>4. The phrase |the program| refers to</Stem>
+  <Distractor_list>
+    <Distractor>(A) spam messages</Distractor>
+    <Distractor>(B) random characters and numbers</Distractor>
+    <Distractor>(C) a type of spam filter</Distractor>
+    <Distractor>(D) common features</Distractor>
+  </Distractor_list>
+  <Key>3</Key>
+</TestItem>

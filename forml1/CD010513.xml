@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+    <skillDimension>unknown</skillDimension>
+    <TPPassage>CP010113.txt</TPPassage>
+    <Stem>13. Which of the following would most likely be the topic of the paragraph before this passage?</Stem>
+    
+    <Distractor_list>
+      <Distractor>A brief discussion of the different phylum of animals</Distractor>
+      <Distractor>A scientific examination of human hair and nails</Distractor>
+      <Distractor>A description of various natural polymers</Distractor>
+      <Distractor>A listing of some common arthropods</Distractor>
+    </Distractor_list>
+    
+    <Key>1</Key>
+</TestItem>

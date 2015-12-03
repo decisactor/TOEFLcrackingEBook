@@ -1,0 +1,16 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+    <skillDimension>unknown</skillDimension>
+    <TPPassage>CP010109.txt</TPPassage>
+    <Paragraph>7</Paragraph>
+    <TPTopScrollLine>41</TPTopScrollLine>
+    <Stem>9. The paragraph following the passage would most logically continue with a discussion of</Stem>
+    
+    <Distractor_list>
+      <Distractor>different strategies used by predators to capture arthropods</Distractor>
+      <Distractor>non-arthropods that have protective shells</Distractor>
+      <Distractor>the defense mechanisms of other types of animals</Distractor>
+      <Distractor>adaptations arthropods make to survive during molting</Distractor>
+    </Distractor_list>
+    
+    <Key>4</Key>
+</TestItem>

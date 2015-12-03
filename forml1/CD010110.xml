@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CD010110.txt</TPPassage>
+
+<TPTopScrollLine>39</TPTopScrollLine>
+<Stem>10. The word indiscriminate in the passage is closest in meaning to</Stem>
+<Distractor_list>
+  <Distractor>(A) ineffective</Distractor>
+  <Distractor>(B) uncontrolled</Distractor>
+  <Distractor>(C) illegal</Distractor>
+  <Distractor>(D) funded</Distractor>
+</Distractor_list>
+
+<Key>2</Key>
+</TestItem>

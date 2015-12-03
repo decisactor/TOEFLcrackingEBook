@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CD010212.txt</TPPassage>
+<TPTopScrollLine>58</TPTopScrollLine>
+<Stem>12. The word |components| in the passage is closest in meaning to</Stem>
+<Distractor_list>
+  <Distractor>(A) styles</Distractor>
+  <Distractor>(B) makers</Distractor>
+  <Distractor>(C) countries</Distractor>
+  <Distractor>(D) parts</Distractor>
+</Distractor_list>
+
+<Key>4</Key>
+</TestItem>

@@ -1,0 +1,13 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CD010205.txt</TPPassage>
+<Stem>5. The earliest ancestors of the flag were associated with divine power because</Stem>
+<Distractor_list>
+  <Distractor>(A) they were flown as high in the sky as people could reach</Distractor>
+  <Distractor>(B) they were woven from valuable field grasses</Distractor>
+  <Distractor>(C) they moved with the wind</Distractor>
+  <Distractor>(D) tribes that flew them always won battles</Distractor>
+</Distractor_list>
+
+<Key>3</Key>
+</TestItem>

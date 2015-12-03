@@ -1,0 +1,13 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+  <TPPassage>CD010304.txt</TPPassage>
+  <Stem>4. According to the passage, which of the following is true in the biological definition of a species?</Stem>
+  <Distractor_list>
+    <Distractor>(A) A member of one species is unable to breed with a member of a different species.</Distractor>
+    <Distractor>(B) A member of one species often lives more than 40 miles away from a member of another species.</Distractor>
+    <Distractor>(C) Species classification is based on coloration and markings, such as black and yellow spots.</Distractor>
+    <Distractor>(D) There is no clear definition of what a species is.</Distractor>
+  </Distractor_list>
+
+<Key>1</Key>
+</TestItem>

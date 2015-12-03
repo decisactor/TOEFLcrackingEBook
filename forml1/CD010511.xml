@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+    <skillDimension>unknown</skillDimension>
+    <TPPassage>CP010111.txt</TPPassage>
+    <TPTopScrollLine>41</TPTopScrollLine>
+    <Stem>11. It can be inferred from the passage that molting</Stem>
+    
+    <Distractor_list>
+      <Distractor>happens regularly during the life of the arthropod</Distractor>
+      <Distractor>always takes days to complete</Distractor>
+      <Distractor>leaves the arthropod without its normal defense</Distractor>
+      <Distractor>causes the arthropod to grow larger</Distractor>
+    </Distractor_list>
+    
+    <Key>3</Key>
+</TestItem>

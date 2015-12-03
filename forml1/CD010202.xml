@@ -1,0 +1,13 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CD010202.txt</TPPassage>
+<Stem>2. The word |miniaturized| in the passage is closest in meaning to</Stem>
+<Distractor_list>
+  <Distractor>(A) publicized</Distractor>
+  <Distractor>(B) colored</Distractor>
+  <Distractor>(C) made brighter</Distractor>
+  <Distractor>(D) made smaller</Distractor>
+</Distractor_list>
+
+<Key>4</Key>
+</TestItem>

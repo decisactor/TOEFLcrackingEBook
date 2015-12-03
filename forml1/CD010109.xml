@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CD010109.txt</TPPassage>
+<TPTopScrollLine>39</TPTopScrollLine>
+<Stem>9. The word |alleged| in the passage is closest in meaning to</Stem>
+<Distractor_list>
+  <Distractor>(A) ruled</Distractor>
+  <Distractor>(B) argued</Distractor>
+  <Distractor>(C) disproved</Distractor>
+  <Distractor>(D) limited</Distractor>
+</Distractor_list>
+
+<Key>2</Key>
+</TestItem>

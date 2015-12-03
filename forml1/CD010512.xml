@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+    <skillDimension>unknown</skillDimension>
+    <TPPassage>CP010112.txt</TPPassage>
+    <Stem>12. All of the following are mentioned as benefits of the exoskeleton EXCEPT:</Stem>
+    
+    <Distractor_list>
+      <Distractor>protection against water loss</Distractor>
+      <Distractor>distinctive coloration and markings</Distractor>
+      <Distractor>ability to take in extra air or water</Distractor>
+      <Distractor>armor-like protection</Distractor>
+    </Distractor_list>
+    
+    <Key>3</Key>
+</TestItem>

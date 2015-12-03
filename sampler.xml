@@ -1,0 +1,171 @@
+<TestItem CLASS="ListOfQuestions" USERSFORMDATALOCATION="c:\data_from_forms\">
+
+<TESTLET LABEL="Sampler" TEST_QUIT_BUTTON="1" TIMELABEL="6000">
+  	<TestItemName>SAMPLER_GENERAL_INFO</TestItemName>
+</TESTLET>
+
+<TESTLET LABEL="Reading" TEST_QUIT_BUTTON="1" TIMELABEL="6000">
+  	<TestItemName>DIRECTIONS_READING_INTRO_SOLO</TestItemName>
+         	<TestItemName>DIRECTIONS_READ_SOLO</TestItemName>
+</TESTLET>
+
+
+<TESTLET LABEL="Reading" FORCE_COMPLETE_ANS="0" TIME="6000" NUMBQUESTS="12" PREV_AVAIL="1" READING_EARLY_END="1" REVIEW_AVAIL="1" REVIEW_SAMPLER_AVAIL="1" SHOW_ANSWER="1"ON TEST_QUIT_BUTTON="1" SECTION_EXIT_BUTTON="1">
+		<TestItemName>CD010100.xml</TestItemName>	
+		<TestItemName>CD010101.xml</TestItemName>
+		<TestItemName>CD010102.xml</TestItemName>
+		<TestItemName>CD010103.xml</TestItemName>
+		<TestItemName>CD010104.xml</TestItemName>
+		<TestItemName>CD010105.xml</TestItemName>
+		<TestItemName>CD010106.xml</TestItemName>
+		<TestItemName>CD010107.xml</TestItemName>
+		<TestItemName>CD010108.xml</TestItemName>
+		<TestItemName>CD010109.xml</TestItemName>
+		<TestItemName>CD010110.xml</TestItemName>
+		<TestItemName>CD010111.xml</TestItemName>
+		<TestItemName>CD010112.xml</TestItemName>	
+</TESTLET>
+
+<TestItem CLASS="ListOfQuestions">
+ 
+
+<TESTLET LABEL="Reading" FORCE_COMPLETE_ANS="0" TIME="LEFT_OVER" NUMBQUESTS="15" PREV_AVAIL="1" READING_EARLY_END="1" REVIEW_AVAIL="1" REVIEW_SAMPLER_AVAIL="1" SHOW_ANSWER="1"ON TEST_QUIT_BUTTON="1" SECTION_EXIT_BUTTON="1">
+		<TestItemName>CD010200.xml</TestItemName>	
+		<TestItemName>CD010201.xml</TestItemName>
+		<TestItemName>CD010202.xml</TestItemName>
+		<TestItemName>CD010203.xml</TestItemName>
+		<TestItemName>CD010204.xml</TestItemName>
+		<TestItemName>CD010205.xml</TestItemName>
+		<TestItemName>CD010206.xml</TestItemName>
+		<TestItemName>CD010207.xml</TestItemName>
+		<TestItemName>CD010208.xml</TestItemName>
+		<TestItemName>CD010209.xml</TestItemName>
+		<TestItemName>CD010210.xml</TestItemName>
+		<TestItemName>CD010211.xml</TestItemName>
+		<TestItemName>CD010212.xml</TestItemName>
+		<TestItemName>CD010213.xml</TestItemName>
+		<TestItemName>CD010214.xml</TestItemName>
+		<TestItemName>CD010215.xml</TestItemName>	
+		
+</TESTLET>
+<TestItem CLASS="ListOfQuestions">
+ 
+
+<TESTLET LABEL="Reading" FORCE_COMPLETE_ANS="0" TIME="LEFT_OVER" NUMBQUESTS="13" PREV_AVAIL="1" READING_EARLY_END="1" REVIEW_AVAIL="1" REVIEW_SAMPLER_AVAIL="1" SHOW_ANSWER="1"ON TEST_QUIT_BUTTON="1" SECTION_EXIT_BUTTON="1">
+		<TestItemName>CD010300.xml</TestItemName>	
+		<TestItemName>CD010301.xml</TestItemName>
+		<TestItemName>CD010302.xml</TestItemName>
+		<TestItemName>CD010303.xml</TestItemName>
+		<TestItemName>CD010304.xml</TestItemName>
+		<TestItemName>CD010305.xml</TestItemName>
+		<TestItemName>CD010306.xml</TestItemName>
+		<TestItemName>CD010307.xml</TestItemName>
+		<TestItemName>CD010308.xml</TestItemName>
+		<TestItemName>CD010309.xml</TestItemName>
+		<TestItemName>CD010310.xml</TestItemName>
+		<TestItemName>CD010311.xml</TestItemName>
+		<TestItemName>CD010312.xml</TestItemName>
+		<TestItemName>CD010313.xml</TestItemName>	
+</TESTLET>
+
+<TESTLET LABEL="Reading" FORCE_COMPLETE_ANS="0" TIME="LEFT_OVER" NUMBQUESTS="12" PREV_AVAIL="1" READING_EARLY_END="1" REVIEW_AVAIL="1" REVIEW_SAMPLER_AVAIL="1" SHOW_ANSWER="1"ON TEST_QUIT_BUTTON="1" SECTION_EXIT_BUTTON="1">
+		<TestItemName>CD010400.xml</TestItemName>	
+		<TestItemName>CD010401.xml</TestItemName>
+		<TestItemName>CD010402.xml</TestItemName>
+		<TestItemName>CD010403.xml</TestItemName>
+		<TestItemName>CD010404.xml</TestItemName>
+		<TestItemName>CD010405.xml</TestItemName>
+		<TestItemName>CD010406.xml</TestItemName>
+		<TestItemName>CD010407.xml</TestItemName>
+		<TestItemName>CD010408.xml</TestItemName>
+		<TestItemName>CD010409.xml</TestItemName>
+		<TestItemName>CD010410.xml</TestItemName>
+		<TestItemName>CD010411.xml</TestItemName>
+		<TestItemName>CD010412.xml</TestItemName>	
+</TESTLET>
+
+<TESTLET LABEL="Reading" FORCE_COMPLETE_ANS="0" TIME="LEFT_OVER" NUMBQUESTS="155" PREV_AVAIL="1" READING_EARLY_END="1" REVIEW_AVAIL="1" REVIEW_SAMPLER_AVAIL="1" SHOW_ANSWER="1"ON TEST_QUIT_BUTTON="1" SECTION_EXIT_BUTTON="1">
+		<TestItemName>CD010500.xml</TestItemName>	
+		<TestItemName>CD010501.xml</TestItemName>
+		<TestItemName>CD010502.xml</TestItemName>
+		<TestItemName>CD010503.xml</TestItemName>
+		<TestItemName>CD010504.xml</TestItemName>
+		<TestItemName>CD010505.xml</TestItemName>
+		<TestItemName>CD010506.xml</TestItemName>
+		<TestItemName>CD010507.xml</TestItemName>
+		<TestItemName>CD010508.xml</TestItemName>
+		<TestItemName>CD010509.xml</TestItemName>
+		<TestItemName>CD010510.xml</TestItemName>
+		<TestItemName>CD010511.xml</TestItemName>
+		<TestItemName>CD010512.xml</TestItemName>
+		<TestItemName>CD010513.xml</TestItemName>
+		<TestItemName>CD010514.xml</TestItemName>
+		<TestItemName>CD010515.xml</TestItemName>	
+</TESTLET>
+
+<TESTLET LABEL="Listening" TEST_QUIT_BUTTON="0" SECTION_EXIT_BUTTON="1"> <TestItemName>HEADSET_ON</TestItemName> </TESTLET>
+
+<TESTLET LABEL="Volume" VOL_AVAIL="1" TEST_QUIT_BUTTON="0" SECTION_EXIT_BUTTON="0">
+  	 	<TestItemName>DIRECTIONS_VOLUME</TestItemName>
+</TESTLET>
+
+
+<TESTLET LABEL="Listening" VOL_AVAIL="1" TEST_QUIT_BUTTON="0" SECTION_EXIT_BUTTON="1">
+  	 	<TestItemName>DIRECTIONS_LISTENING_SECTION_SAMPLER</TestItemName>
+</TESTLET>
+
+
+<TESTLET LABEL="Listening" TIME="600" NUMBQUESTS="11" OK_AVAIL="1" VOL_AVAIL="1" SHOW_ANSWER="1"ON TEST_QUIT_BUTTON="0" PAUSE_AFTER_LECTURE="0" PAUSE_AFTER_QUESTION="0" REVIEW_SAMPLER_AVAIL="1" SHOW_ANSWER="1" SECTION_EXIT_BUTTON="1">
+		<TestItemName>VB496835.xml</TestItemName>
+		<TestItemName>VB535815.xml</TestItemName>
+		<TestItemName>VB535816.xml</TestItemName>
+		<TestItemName>VB535817.xml</TestItemName>
+		<TestItemName>VB535818.xml</TestItemName>
+		<TestItemName>VB535819.xml</TestItemName>
+</TESTLET>
+
+<TESTLET LABEL="Listening" VOL_AVAIL="1" SKIP_IF_LEFTOVER_NULL="1" TEST_QUIT_BUTTON="0">
+  	 	<TestItemName>DIRECTIONS_LECTURE_SOLO</TestItemName>
+</TESTLET>
+
+<TESTLET LABEL="Listening" TIME="LEFT_OVER" NUMBQUESTS="11" QUESTBEGIN="6" OK_AVAIL="1" VOL_AVAIL="1" SHOW_ANSWER="1"ON TEST_QUIT_BUTTON="0" PAUSE_AFTER_LECTURE="0" PAUSE_AFTER_QUESTION="0" REVIEW_SAMPLER_AVAIL="1" SHOW_ANSWER="1" SECTION_EXIT_BUTTON="1">
+		<TestItemName>VB503560.xml</TestItemName>
+		<TestItemName>VB501972.xml</TestItemName>
+		<TestItemName>VB501973.xml</TestItemName>
+		<TestItemName>VB501975.xml</TestItemName>
+		<TestItemName>VB501978.xml</TestItemName>
+		<TestItemName>VB501971.xml</TestItemName>
+		<TestItemName>VB501977.xml</TestItemName>
+</TESTLET>
+
+ 
+<TESTLET LABEL="Speaking" VOL_AVAIL="1" TEST_QUIT_BUTTON="0" SECTION_EXIT_BUTTON="1">
+  	 	<TestItemName>DIRECTIONS_SPEAKING_SECTION_SAMPLER</TestItemName>
+</TESTLET>
+
+<TESTLET LABEL="Speaking" VOL_AVAIL="1" NUMBQUESTS="3" QUESTBEGIN="1" TEST_QUIT_BUTTON="0" PAUSE_AFTER_LECTURE="0" PAUSE_AFTER_QUESTION="0" MINIPASSAGE_UNTIMED="0" REVIEW_SAMPLER_AVAIL="1">
+    		<TestItemName>VB531097.xml</TestItemName>
+		<TestItemName>VB531099.xml</TestItemName>
+		<TestItemName>VB531100.xml</TestItemName>
+</TESTLET>
+
+ 
+<TESTLET LABEL="Writing" VOL_AVAIL="1" TEST_QUIT_BUTTON="0"  >
+  	 	<TestItemName>DIRECTIONS_WRITING_SECTION</TestItemName>
+</TESTLET>
+
+
+<TESTLET LABEL="Writing" VOL_AVAIL="1" NUMBQUESTS="2" QUESTBEGIN="1" SOLOLECTURE="1" TEST_QUIT_BUTTON="0" PAUSE_AFTER_LECTURE="0" PAUSE_AFTER_QUESTION="0" MINIPASSAGE_UNTIMED="0">
+		<TestItemName>VB531092.xml</TestItemName>
+</TESTLET>
+
+<TESTLET LABEL="Writing" NUMBQUESTS="2" QUESTBEGIN="2" TEST_QUIT_BUTTON="0" PAUSE_AFTER_LECTURE="0" PAUSE_AFTER_QUESTION="0" MINIPASSAGE_UNTIMED="0">
+                <TestItemName>VB531091.xml</TestItemName>
+</TESTLET>
+
+
+<TESTLET LABEL="Sampler" TEST_QUIT_BUTTON="0" TIMELABEL="0">
+  	<TestItemName>SAMPLER_ENDING</TestItemName>
+</TESTLET>
+
+

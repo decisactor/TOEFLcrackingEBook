@@ -1,0 +1,36 @@
+<TestItem CLASS="draggy" METHOD="list">
+    <TPviewtext PASSAGE="CD010313.txt"></TPviewtext>
+    <tpFont>Arial,12,0</tpFont>
+    <QuestBmp>CD010313.bmp</QuestBmp>
+    <Comment>Drag your answer choices to the spaces where they belong.</Comment>
+    <tpObject_list>
+        <tpObject>43,574,454,0,It is likely that the Central Valley salamanders were all descended from a common ancestor.</tpObject>
+        <tpObject>534,571,444,0,Despite the difficulties found in species  classificatio, there is a need for it in  science.</tpObject>
+        <tpObject>44,649,454,0,Although scientists may have a need to place animals into classes. nature is not always so easily categorized.</tpObject>
+        <tpObject>534,650,425,0,The Central Valley salamander and other "ring species" illustrate the difficulties in classifying animals.</tpObject>
+        <tpObject>43,728,466,0,Any two animals that can breed with each other are considered members of the same species.</tpObject>
+        <tpObject>534,729,434,0,One solution to the problem involves placing animals into subspecies, but this approach results in problems of its own.</tpObject>
+    </tpObject_list>
+    <offset>-115,-72</offset>
+    <bucketSize>692,137</bucketSize>
+    <tpBucket_list>
+        <tpBucket>297,321</tpBucket>
+        <tpBucket>297,407</tpBucket>
+        <tpBucket>297,495</tpBucket>
+        <tpBucket>38,574</tpBucket>
+        <tpBucket>529,571</tpBucket>
+        <tpBucket>39,649</tpBucket>
+        <tpBucket>529,650</tpBucket>
+        <tpBucket>38,728</tpBucket>
+        <tpBucket>529,729</tpBucket>
+    </tpBucket_list>
+   
+    <Key></Key>
+    
+    <specialShowAnswer>2,3,4,1,0,0,0,5,6,</specialShowAnswer>
+    <Key>2;NO_ORDER,1,4,5</Key>
+    <Key>1;NO_ORDER,*,4,5</Key>
+    <Key>1;NO_ORDER,1,*,5</Key>
+    <Key>1;NO_ORDER,1,4,*</Key>
+
+</TestItem>

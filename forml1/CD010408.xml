@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CD010408.txt</TPPassage>
+
+<Stem>8. The passage mentions all of the following as hindrances to adopting verification systems EXCEPT</Stem>
+<Distractor_list>
+  <Distractor>(A) user reluctance</Distractor>
+  <Distractor>(B) inconvenience</Distractor>
+  <Distractor>(C) ineffectiveness</Distractor>
+  <Distractor>(D) violation of privacy</Distractor>
+</Distractor_list>
+
+<Key>3</Key>
+</TestItem>

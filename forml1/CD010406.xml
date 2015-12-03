@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CD010406.txt</TPPassage>
+
+<TPTopScrollLine>32</TPTopScrollLine>
+<Stem>6. Which of the choices below best expresses the meaning of the highlighted sentence in the passage? Incorrect answer choices change the meaning in important ways or leave out essential information.</Stem>
+<Distractor_list>
+  <Distractor>(A) Once spammers figured out how smart filters functioned, they were able to defeat them by changing words in the message.</Distractor>
+  <Distractor>(B) Spammers can avoid smart filters by replacing certain letters in words or phrases with other characters.</Distractor>
+  <Distractor>(C) Smart filters function by looking for words that have certain letters replaced by numbers.</Distractor>
+  <Distractor>(D) A smart filter is easily defeated by spammers who are able to disguise words and phrases with numbers and characters.</Distractor>
+</Distractor_list>
+
+<Key>2</Key>
+</TestItem>

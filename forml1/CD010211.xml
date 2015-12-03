@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CD010211.txt</TPPassage>
+<TPTopScrollLine>58</TPTopScrollLine>
+<Stem>11. The word |them| in the passage refers to</Stem>
+<Distractor_list>
+  <Distractor>(A) crests</Distractor>
+  <Distractor>(B) families</Distractor>
+  <Distractor>(C) hard surfaces</Distractor>
+  <Distractor>(D) shields</Distractor>
+</Distractor_list>
+
+<Key>1</Key>
+</TestItem>

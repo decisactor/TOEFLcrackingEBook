@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CD010409.txt</TPPassage>
+
+<Stem>9. The author describes the fight over spam as an arms race because</Stem>
+<Distractor_list>
+  <Distractor>(A) computer engineers and spammers are constantly reacting to each other's strategies</Distractor>
+  <Distractor>(B) some of the techniques used by spammers may cause harm to E-mail users</Distractor>
+  <Distractor>(C) there is no peaceful solution to the problem of spam</Distractor>
+  <Distractor>(D) computer engineers will never be able to completely protect against spam E-mails</Distractor>
+</Distractor_list>
+
+<Key>1</Key>
+</TestItem>

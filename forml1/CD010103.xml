@@ -1,0 +1,13 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+  
+  <TPPassage>CD010103.txt</TPPassage>
+  <Stem>3. Which of the sentences below best expresses the essential information in the boldfaced sentence in the passage? Incorrect answer choices change the meaning in important ways or leave out essential information. </Stem>
+  <Distractor_list>
+    <Distractor>(A) Carson felt it necessary to choose between becoming a scientist and becoming a popular writer.</Distractor>
+    <Distractor>(B) People were surprised at the large-scale damage Carson's writings brought to their attention.</Distractor>
+    <Distractor>(C) Carson initially found it difficult to write about ecology for a mass audience.</Distractor>
+    <Distractor>(D) Carson was able to popularize her views by combining her writing talent and knowledge of biology.</Distractor>
+  </Distractor_list>
+  
+  <Key>4</Key>
+</TestItem>

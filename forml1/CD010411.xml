@@ -1,0 +1,11 @@
+<TestItem CLASS="passage_insertText" METHOD="list">
+
+<TPPassage>CD010411.txt</TPPassage>
+<TPTopScrollLine>39</TPTopScrollLine>
+<Stem>Look at the four squares [ |   | ] that indicate where the following sentence can be added to the passage.</Stem>
+<Distractor_list>
+   <Distractor>Although a fee to send an E-mail seems an extreme solution, the fee is more of a verification device than an actual payment.</Distractor>
+</Distractor_list>
+
+<Key>4</Key>
+</TestItem>

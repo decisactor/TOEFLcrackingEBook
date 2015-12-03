@@ -1,0 +1,12 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+  <TPPassage>CD010101.txt</TPPassage>
+  <Stem>1. The word |launched| in the passage is closest in meaning to</Stem>
+  <Distractor_list>
+    <Distractor>(A) wrote about</Distractor>
+    <Distractor>(B) reorganized</Distractor>
+    <Distractor>(C) began</Distractor>
+    <Distractor>(D) researched</Distractor>
+  </Distractor_list>
+  
+  <Key>3</Key>
+</TestItem>

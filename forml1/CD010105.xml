@@ -1,0 +1,12 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<TPPassage>CD010105.txt</TPPassage>
+<Stem>5. The word |trained| in the passage is closest in meaning to</Stem>
+<Distractor_list>
+  <Distractor>(A) questioned</Distractor>
+  <Distractor>(B) studied</Distractor>
+  <Distractor>(C) reviewed</Distractor>
+  <Distractor>(D) aimed</Distractor>
+</Distractor_list>
+
+<Key>4</Key>
+</TestItem>

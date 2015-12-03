@@ -1,0 +1,13 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CD010207.txt</TPPassage>
+<Stem>7. Which of the sentences below best expresses the essential information in the boldfaced sentence in the passage? Incorrect answer choices change the meaning in important ways or leave out essential information.</Stem>
+<Distractor_list>
+  <Distractor>(A) Despite the obvious similarities between the two. ancient flutters developed very slowly and indirectly into modern flags.</Distractor>
+  <Distractor>(B) Despite the widespread use of modern flags, flutters in the ancient style are still used in some parts of the world.</Distractor>
+  <Distractor>(C) Historians are slowly discovering evidence of how the flutters used on ancient totems developed into modern flags.</Distractor>
+  <Distractor>(D) Ancient flutters are still sometimes used instead of modern flags to represent a country over official journeys.</Distractor>
+</Distractor_list>
+
+<Key>1</Key>
+</TestItem>

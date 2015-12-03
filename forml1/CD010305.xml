@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<Paragraph>4</Paragraph>
+<TPPassage>CD010305.txt</TPPassage>
+<Stem>5. In paragraph 4, the author states that</Stem>
+<Distractor_list>
+  <Distractor>(A) many different species of salamanders live along the Central Valley</Distractor>
+  <Distractor>(B) salamanders along the western end of the valley have fewer spots</Distractor>
+  <Distractor>(C) salamanders found at the northern end of the valley cannot interbreed with salamanders found at the southern end</Distractor>
+  <Distractor>(D) the range of salamanders found along the valley presents a difficulty</Distractor>
+</Distractor_list>
+
+<Key>4</Key>
+</TestItem>

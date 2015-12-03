@@ -1,0 +1,16 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+    <skillDimension>unknown</skillDimension>
+    <TPPassage>CP010110.txt</TPPassage>
+    <Paragraph>7</Paragraph>
+    <TPTopScrollLine>41</TPTopScrollLine>
+    <Stem>10. Which of the following choices best expresses the essential meaning of the highlighted sentences in paragraph 7? Incorrect choices will change the meaning or leave out important details.</Stem>
+    
+    <Distractor_list>
+        <Distractor>Arthropods are only vulnerable to predators during the period in which their shell is tender and easily penetrated.</Distractor>
+        <Distractor>Predators typically prefer to eat arthropods that are waiting for their new coats to harden.</Distractor>
+        <Distractor>While the arthropod's shell is hardening, the arthropod can not rely on its shell to protect it from predators.</Distractor>
+        <Distractor>When the arthropod's defenses are lowered, it will use many different strategies to avoid predators.</Distractor>
+    </Distractor_list>
+
+    <Key>3</Key>
+</TestItem>

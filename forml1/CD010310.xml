@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CD010310.txt</TPPassage>
+
+<TPTopScrollLine>42</TPTopScrollLine>
+<Stem>10. The word |admittedly| as used in the passage is closest to</Stem>
+<Distractor_list>
+  <Distractor>(A) precisely</Distractor>
+  <Distractor>(B) literally</Distractor>
+  <Distractor>(C) certainly</Distractor>
+  <Distractor>(D) rarely</Distractor>
+</Distractor_list>
+
+<Key>3</Key>
+</TestItem>

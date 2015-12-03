@@ -1,0 +1,38 @@
+<TestItem CLASS="draggy" METHOD="list">
+<TPviewtext PASSAGE="CD010215.txt">
+</TPviewtext>
+<tpFont>Arial,12,0</tpFont>
+<QuestBmp>CD010215.bmp</QuestBmp>
+<Comment>Drag your answer choices to the spaces where they belong.</Comment>
+<tpObject_list>
+     <tpObject>43,574,454,0,A Chinese king's practice of having a flag carried ahead of him spread across Asia to Europe.</tpObject>
+     <tpObject>534,571,444,0,Ancient tribes respected the power of the wind and began to carry totem poles with flutters for good luck in battle.</tpObject>
+     <tpObject>44,649,454,0,Many countries have followed Poland's example and used an eagle on their flags to symbolize strength and power.</tpObject>
+     <tpObject>534,650,425,0,Heraldic crests and colors combined with a standard rectangular shape to make a symbol with many uses.</tpObject>
+     <tpObject>43,728,466,0,Early humans lived lives that were vulnerable to disruption by natural forces.</tpObject>
+     <tpObject>534,729,434,0,Some flags used in Asian countries may have been colored in distinct ways.</tpObject>
+</tpObject_list>
+<offset>-115,-72</offset>
+<bucketSize>692,137</bucketSize>
+<tpBucket_list>
+     <tpBucket>297,321</tpBucket>
+     <tpBucket>297,407</tpBucket>
+     <tpBucket>297,495</tpBucket>
+     <tpBucket>38,574</tpBucket>
+     <tpBucket>529,571</tpBucket>
+     <tpBucket>39,649</tpBucket>
+     <tpBucket>529,650</tpBucket>
+     <tpBucket>38,728</tpBucket>
+     <tpBucket>529,729</tpBucket>
+</tpBucket_list>
+<Key></Key>
+
+<specialShowAnswer>1,2,4,0,0,3,0,5,6,</specialShowAnswer>
+<Key>2;NO_ORDER,2,3,6</Key>
+<Key>1;NO_ORDER,*,3,6</Key>
+<Key>1;NO_ORDER,2,*,6</Key>
+<Key>1;NO_ORDER,2,3,*</Key>
+
+
+
+</TestItem>

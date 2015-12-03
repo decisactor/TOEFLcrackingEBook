@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+    <skillDimension>unknown</skillDimension>
+    <TPPassage>CP010108.txt</TPPassage>
+    <Paragraph>6</Paragraph>
+    <TPTopScrollLine>41</TPTopScrollLine>
+    <Stem>8. The word |excited| in the passage is closest in meaning to</Stem>
+    <Distractor_list>
+      <Distractor>stimulated</Distractor>
+      <Distractor>attracted</Distractor>
+      <Distractor>captured</Distractor>
+      <Distractor>enthused</Distractor>
+    </Distractor_list>
+    <Key>1</Key>
+</TestItem>

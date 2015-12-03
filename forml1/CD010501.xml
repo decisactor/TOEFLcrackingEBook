@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+    <skillDimension>unknown</skillDimension>
+    <TPPassage>CP010101.txt</TPPassage>
+    <Paragraph>1</Paragraph>
+    <Stem>1. The word |occasion| in the passage is closest in meaning to</Stem>
+    
+    <Distractor_list>
+        <Distractor>multiply</Distractor>
+        <Distractor>cause</Distractor>
+        <Distractor>demonstrate</Distractor>
+        <Distractor>limit</Distractor>
+    </Distractor_list>
+
+    <Key>2</Key>
+</TestItem>

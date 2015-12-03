@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CD010111.txt</TPPassage>
+
+<TPTopScrollLine>59</TPTopScrollLine>
+<Stem>11. Which of the following is NOT mentioned in the passage as evidence of Carson's influence on the regulation of pesticides?</Stem>
+<Distractor_list>
+  <Distractor>(A) She spoke before Congress.</Distractor>
+  <Distractor>(B) She served on a presidential committee.</Distractor>
+  <Distractor>(C) Her work is still cited by regulators.</Distractor>
+  <Distractor>(D) She wrote the first set of pesticide regulations.</Distractor>
+</Distractor_list>
+
+<Key>4</Key>
+</TestItem>

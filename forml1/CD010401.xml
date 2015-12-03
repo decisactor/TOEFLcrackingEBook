@@ -1,0 +1,12 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+  <TPPassage>CD010401.txt</TPPassage>
+  <Stem>1. The word |proliferation| in the passage is closest in meaning to</Stem>
+  <Distractor_list>
+    <Distractor>(A) addition</Distractor>
+    <Distractor>(B) spread</Distractor>
+    <Distractor>(C) diminishment</Distractor>
+    <Distractor>(D) enlargement</Distractor>
+  </Distractor_list>
+
+  <Key>2</Key>
+</TestItem>

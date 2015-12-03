@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+    <skillDimension>unknown</skillDimension>
+    <TPPassage>CP010105.txt</TPPassage>
+    <Paragraph>4</Paragraph>
+    <Stem>5. The layer of the shell called the exocuticle is strong because</Stem>
+    
+    <Distractor_list>
+      <Distractor>its molecules are closely bonded</Distractor>
+      <Distractor>it is drier than the endocuticle</Distractor>
+      <Distractor>its fibers are parallel</Distractor>
+      <Distractor>it is water-resistant</Distractor>
+    </Distractor_list>
+    
+    <Key>1</Key>
+</TestItem>

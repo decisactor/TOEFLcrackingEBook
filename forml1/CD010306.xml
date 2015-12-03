@@ -1,0 +1,13 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CD010306.txt</TPPassage>
+<Stem>6. The phrase |the intermediates| refers to</Stem>
+<Distractor_list>
+  <Distractor>(A) salamanders found outside the Central Valley ring</Distractor>
+  <Distractor>(B) distinct species of salamanders found only in the Central Valley</Distractor>
+  <Distractor>(C) a range of salamanders that do not fit neatly into a species classification</Distractor>
+  <Distractor>(D) salamanders found at the ends of the "ring" around the Central Valley</Distractor>
+</Distractor_list>
+
+<Key>3</Key>
+</TestItem>

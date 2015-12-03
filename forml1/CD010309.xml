@@ -1,0 +1,13 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CD010309.txt</TPPassage>
+<Stem>9. The phrase |neat compartments| most nearly means</Stem>
+<Distractor_list>
+  <Distractor>(A) clear areas</Distractor>
+  <Distractor>(B) distinct groups</Distractor>
+  <Distractor>(C) different times</Distractor>
+  <Distractor>(D) main division</Distractor>
+</Distractor_list>
+
+<Key>2</Key>
+</TestItem>

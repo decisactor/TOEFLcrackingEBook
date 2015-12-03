@@ -1,0 +1,13 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+    <skillDimension>unknown</skillDimension>
+    <TPPassage>CP010102.txt</TPPassage>
+    <Stem>2. Click on the highlighted sentence in the passage in which the author gives a definition.</Stem>
+    <Distractor_list>
+      <Distractor>These give the arthropod information about its surroundings, much as the nerve endings in human skin do.</Distractor>
+      <Distractor>Its primary component is chitin, a natural polymer that contains calcium and is very similar in structure to the cellulose in wood.</Distractor>
+      <Distractor>Combined, the endocuticle, exocuticle, and lipid coating form a shell that provides formidable protection.</Distractor>
+      <Distractor>Many species of scorpion, for instance, have cuticles that contain hyaline.</Distractor>
+    </Distractor_list>
+
+<Key>2</Key>
+</TestItem>

@@ -1,0 +1,13 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+  <TPPassage>CD010402.txt</TPPassage>
+  <Paragraph>1</Paragraph>
+  <Stem>2. In paragraph 1, the author describes spam as</Stem>
+  <Distractor_list>
+    <Distractor>(A) a recent problem that affects millions of users</Distractor>
+    <Distractor>(B) totaling more than 80 percent of E-mails sent via the Internet</Distractor>
+    <Distractor>(C) a technological innovation</Distractor>
+    <Distractor>(D) unwanted messages sent to a mass audience</Distractor>
+  </Distractor_list>
+
+<Key>4</Key>
+</TestItem>

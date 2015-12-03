@@ -1,0 +1,13 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+  
+  <TPPassage>CD010403.txt</TPPassage>
+  <Stem>3. In the passage, the word |abysmally| is closest in meaning to</Stem>
+  <Distractor_list>
+    <Distractor>(A) unknowingly</Distractor>
+    <Distractor>(B) disastrously</Distractor>
+    <Distractor>(C) disappointingly</Distractor>
+    <Distractor>(D) extremely</Distractor>
+  </Distractor_list>
+  
+  <Key>4</Key>
+</TestItem>

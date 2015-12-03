@@ -1,0 +1,13 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+  <TPPassage>CD010107.txt</TPPassage>
+  <TPTopScrollLine>32</TPTopScrollLine>
+  <Stem>7. It can be inferred from the passage that DDT is especially dangerous because</Stem>
+  <Distractor_list>
+    <Distractor>(A) it is the most commonly used pesticide</Distractor>
+    <Distractor>(B) its taste attracts birds</Distractor>
+    <Distractor>(C) it does not disappear quickly</Distractor>
+    <Distractor>(D) it takes a long time to kill insects</Distractor>
+  </Distractor_list>
+  
+  <Key>3</Key>
+</TestItem>

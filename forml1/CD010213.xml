@@ -1,0 +1,13 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CD010213.txt</TPPassage>
+<Stem>13. The two flags of Poland mentioned in the passage differ in that</Stem>
+<Distractor_list>
+   <Distractor>(A) they do not use the same colors</Distractor>
+   <Distractor>(B) they originally represented different families</Distractor>
+   <Distractor>(C) only one is used officially</Distractor>
+   <Distractor>(D) one does not have a crest</Distractor>
+</Distractor_list>
+
+<Key>4</Key>
+</TestItem>

@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CD010311.txt</TPPassage>
+
+<Stem>11. The author's opinion about species classification would best be described as</Stem>
+<Distractor_list>
+  <Distractor>(A) uncertain of the need for a system of species classification</Distractor>
+  <Distractor>(B) dismissive toward species classification because of the many problems it creates</Distractor>
+  <Distractor>(C) assured of the need for species classification despite its difficulties</Distractor>
+  <Distractor>(D) optimistic that the problems with species classification will soon be overcome</Distractor>
+</Distractor_list>
+
+<Key>3</Key>
+</TestItem>

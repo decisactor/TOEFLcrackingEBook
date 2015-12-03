@@ -1,0 +1,12 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<TPPassage>CD010405.txt</TPPassage>
+<Stem>5. According to paragraph 4. smart filters are superior to fingerprinting systems because smart filters</Stem>
+<Distractor_list>
+  <Distractor>(A) are eventually able to recognize new versions of spam messages</Distractor>
+  <Distractor>(B) are able to learn from their mistakes</Distractor>
+  <Distractor>(C) do not need to find common features to detect spam</Distractor>
+  <Distractor>(D) are not fooled by random characters or content</Distractor>
+</Distractor_list>
+
+<Key>1</Key>
+</TestItem>

@@ -1,0 +1,11 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+  <TPPassage>CD010104.txt</TPPassage>
+  <Stem>4. The author uses the phrase |a household name| to indicate that Carson</Stem>
+  <Distractor_list>
+    <Distractor>(A) became famous</Distractor>
+    <Distractor>(B) wrote very slowly</Distractor>
+    <Distractor>(C) did not socialize much</Distractor>
+    <Distractor>(D) was already planning her third book</Distractor>
+  </Distractor_list>
+  <Key>1</Key>
+</TestItem>

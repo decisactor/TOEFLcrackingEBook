@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CD010206.txt</TPPassage>
+
+<Stem>6. The word |fix| in the passage is closest in meaning to</Stem>
+<Distractor_list>
+  <Distractor>(A) create</Distractor>
+  <Distractor>(B) respect</Distractor>
+  <Distractor>(C) attach</Distractor>
+  <Distractor>(D) blow</Distractor>
+</Distractor_list>
+
+<Key>3</Key>
+</TestItem>

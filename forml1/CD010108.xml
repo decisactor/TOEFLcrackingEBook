@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CD010108.txt</TPPassage>
+
+<Stem>8. The "silent spring" in the title of Carson's fourth major book refers to</Stem>
+<Distractor_list>
+  <Distractor>(A) the long gap between her two books</Distractor>
+  <Distractor>(B) people's unwillingness to speak out against pollution</Distractor>
+  <Distractor>(C) the death of wildlife from agricultural chemicals</Distractor>
+  <Distractor>(D) the hidden dangers of pesticides</Distractor>
+</Distractor_list>
+
+<Key>3</Key>
+</TestItem>

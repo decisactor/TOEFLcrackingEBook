@@ -1,0 +1,13 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+  <TPPassage>CD010302.txt</TPPassage>
+  <Stem>2. The word |genus| as used in the passage is closest in meaning to</Stem>
+  <Distractor_list>
+    <Distractor>(A) kind</Distractor>
+    <Distractor>(B) color</Distractor>
+    <Distractor>(C) location</Distractor>
+    <Distractor>(D) quality</Distractor>
+  </Distractor_list>
+
+<Key>1</Key>
+</TestItem>

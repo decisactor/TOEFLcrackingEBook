@@ -1,0 +1,33 @@
+<TestItem CLASS="draggy" METHOD="list">
+<TPviewtext PASSAGE="CP010100_The_Exoskeleton_of_the_Arthropods.txt">
+<QuestBmp>CP010115.bmp</QuestBmp>
+</TPviewtext>
+<tpFont>Arial,12,0</tpFont>
+<Comment>Directions: An introductory sentence for a brief summary of the passage is provided below.</Comment>
+<tpObject_list>
+     <tpObject>43,555,473,0,Insects, spiders, shrimp, crabs, and centipedes are all arthropods.</tpObject>
+     <tpObject>534,558,465,0,The chitin in the exoskeleton is similar in chemical composition to the cellulose in wood.</tpObject>
+     <tpObject>44,628,477,0,The shell has three layers that protect an arthropod from injury and water loss.</tpObject>
+     <tpObject>534,637,462,0,Because the shell is hard, it must be discarded and replaced as the arthropod grows.</tpObject>
+     <tpObject>43,701,481,0,The hyaline in a scorpion's shell glows under black light because it is excited by ultraviolet radiation.</tpObject>
+     <tpObject>534,701,464,0,The large surface area of the shell makes possible a high number of muscles and a variety ofadaptive colorations.</tpObject>
+</tpObject_list>
+<offset>-140,-100</offset>
+<bucketSize>739,160</bucketSize>
+<tpBucket_list>
+     <tpBucket>271,325</tpBucket>
+     <tpBucket>271,406</tpBucket>
+     <tpBucket>271,489</tpBucket>
+     <tpBucket>38,555</tpBucket>
+     <tpBucket>529,558</tpBucket>
+     <tpBucket>39,628</tpBucket>
+     <tpBucket>529,637</tpBucket>
+     <tpBucket>38,701</tpBucket>
+     <tpBucket>529,701</tpBucket>
+</tpBucket_list>
+<specialShowAnswer>3,4,6,1,2,0,0,5,0,</specialShowAnswer>
+<Key>2;NO_ORDER,3,4,6</Key>
+<Key>1;NO_ORDER,3,*,4</Key>
+<Key>1;NO_ORDER,3,4,*</Key>
+<Key>1;NO_ORDER,*,4,2</Key>
+</TestItem>

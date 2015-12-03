@@ -1,0 +1,10 @@
+<TestItem CLASS="passage_insertText" METHOD="list">
+
+<TPPassage>CD010214.txt</TPPassage>
+<Stem>14. Look at the four squares [ |   | ] that indicate where the following sentence can be added to the passage.</Stem>
+<Distractor_list>
+   <Distractor>Therefore, strong winds could easily tear roofs from houses or cause high waves that imperiled travelers.</Distractor>
+</Distractor_list>
+
+<Key>1</Key>
+</TestItem>

@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CD010106.txt</TPPassage>
+<Paragraph>3</Paragraph>
+<TPTopScrollLine>32</TPTopScrollLine>
+<Stem>6. According to paragraph 3 of the passage, Carson was influenced to write Silent Spring by</Stem>
+<Distractor_list>
+  <Distractor>(A) observing the use of pesticides at her farm</Distractor>
+  <Distractor>(B) a letter from friends</Distractor>
+  <Distractor>(C) the public reaction to her first three books</Distractor>
+  <Distractor>(D) her illnesses caused by DDT</Distractor>
+</Distractor_list>
+
+<Key>2</Key>
+</TestItem>

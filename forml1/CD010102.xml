@@ -1,0 +1,12 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+  <TPPassage>CD010102.txt</TPPassage>
+  <Stem>2. The author uses the word |dry| in the passage to indicate that the facts discussed are</Stem>
+  <Distractor_list>
+    <Distractor>(A) not interesting</Distractor>
+    <Distractor>(B) not related to marine life</Distractor>
+    <Distractor>(C) not difficult to explain</Distractor>
+    <Distractor>(D) available in the works of other scientists</Distractor>
+  </Distractor_list>
+
+<Key>1</Key>
+</TestItem>

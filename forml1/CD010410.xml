@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CD010410.txt</TPPassage>
+<Paragraph>6</Paragraph>
+<TPTopScrollLine>39</TPTopScrollLine>
+<Stem>10. In paragraph 6, the author implies that</Stem>
+<Distractor_list>
+  <Distractor>(A) most spam E-mails will eventually be blocked</Distractor>
+  <Distractor>(B) E-mail users suffer the greatest costs from the fight over spam</Distractor>
+  <Distractor>(C) there is no way to stop new and more sophisticated spam E-mails</Distractor>
+  <Distractor>(D) the battle over spam E-mails will never end</Distractor>
+</Distractor_list>
+
+<Key>2</Key>
+</TestItem>

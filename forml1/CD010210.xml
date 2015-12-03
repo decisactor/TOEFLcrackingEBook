@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CD010210.txt</TPPassage>
+<TPTopScrollLine>46</TPTopScrollLine>
+<Paragraph>6</Paragraph>
+<Stem>10. According to paragraph 6 of the passage, the number of flag designs increased because</Stem>
+<Distractor_list>
+  <Distractor>(A) fewer shields were being made for battle</Distractor>
+  <Distractor>(B) nation-states were becoming larger</Distractor>
+  <Distractor>(C) artists had greater freedom in creating flags</Distractor>
+  <Distractor>(D) more families wanted their own symbols</Distractor>
+</Distractor_list>
+
+<Key>4</Key>
+</TestItem>

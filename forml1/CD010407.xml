@@ -1,0 +1,13 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+  <TPPassage>CD010407.txt</TPPassage>
+  <TPTopScrollLine>32</TPTopScrollLine>
+  <Stem>7. The word |automated| as used in the passage most nearly means</Stem>
+  <Distractor_list>
+    <Distractor>(A) computerized</Distractor>
+    <Distractor>(B) automatic</Distractor>
+    <Distractor>(C) costly</Distractor>
+    <Distractor>(D) illegal</Distractor>
+  </Distractor_list>
+  
+  <Key>1</Key>
+</TestItem>

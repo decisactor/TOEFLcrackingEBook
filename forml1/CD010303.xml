@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+  <TPPassage>CD010303.txt</TPPassage>
+  <Paragraph>1</Paragraph>
+  <Stem>3. Based on the information in paragraph 1, which of the following can be properly inferred?</Stem>
+  <Distractor_list>
+    <Distractor>(A) Nature's creations cannot be put into simple categories.</Distractor>
+    <Distractor>(B) Some scientists are concerned with sorting and arranging natural phenomena.</Distractor>
+    <Distractor>(C) Scientists do not agree on the value of taxonomy.</Distractor>
+    <Distractor>(D) The confusion caused by naming species is not worth the value gained from such a practice.</Distractor>
+  </Distractor_list>
+
+<Key>2</Key>
+</TestItem>

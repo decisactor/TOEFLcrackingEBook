@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB510653</itemGroup>
+<TPPassage>CD010307.txt</TPPassage>
+<TPTopScrollLine>44</TPTopScrollLine>
+<Stem>7. Which of the sentences below best expresses the meaning of the highlighted sentence in the passage? Incorrect answer choices change the meaning in important ways or leave out essential information.</Stem>
+<Distractor_list>
+  <Distractor>(A) It is possible that all the salamanders found along the valley are descended from one early species.</Distractor>
+  <Distractor>(B) Salamander species are typically descended from a common ancestor.</Distractor>
+  <Distractor>(C) The ancestor of all salamander species found in the valley initially lived at the southern tip of the valley.</Distractor>
+  <Distractor>(D) Some theories on the emergence of salamander species focus on the existence of an ancestral species.</Distractor>
+</Distractor_list>
+
+<Key>1</Key>
+</TestItem>

@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+    <skillDimension>unknown</skillDimension>
+    <TPPassage>CP010107.txt</TPPassage>
+    <Paragraph>6</Paragraph>
+    <TPTopScrollLine>41</TPTopScrollLine>
+    <Stem>7. Why is the large surface area of the exoskeleton an advantage?</Stem>
+    <Distractor_list>
+      <Distractor>More water can be retained.</Distractor>
+      <Distractor>More detailed coloration and markings are possible.</Distractor>
+      <Distractor>It can accommodate a long period of growth.</Distractor>
+      <Distractor>Many muscles can be attached.</Distractor>
+    </Distractor_list>
+
+  <Key>4</Key>
+</TestItem>

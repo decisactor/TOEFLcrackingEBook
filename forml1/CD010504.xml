@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+    <skillDimension>unknown</skillDimension>
+    <TPPassage>CP010104.txt</TPPassage>
+    <Paragraph>2</Paragraph>
+    <Stem>4. The word |hazardous| in the passage is closest in meaning to</Stem>
+    
+    <Distractor_list>
+      <Distractor>frequent</Distractor>
+      <Distractor>perilous</Distractor>
+      <Distractor>outer</Distractor>
+      <Distractor>unpredictable</Distractor>
+    </Distractor_list>
+
+<Key>2</Key>
+</TestItem>

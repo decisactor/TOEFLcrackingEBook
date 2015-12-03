@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+  <Paragraph>1</Paragraph>
+  <TPPassage>CD010201.txt</TPPassage>
+  <Stem>1. Paragraph 1 of the passage describes the design of the typical flag as</Stem>
+  <Distractor_list>
+    <Distractor>(A) unfamiliar to people from other countries</Distractor>
+    <Distractor>(B) likely to change as technology improves</Distractor>
+    <Distractor>(C) suited to many different uses</Distractor>
+    <Distractor>(D) older than the country it represents</Distractor>
+  </Distractor_list>
+
+<Key>1</Key>
+</TestItem>

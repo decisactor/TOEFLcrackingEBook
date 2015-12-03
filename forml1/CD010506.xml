@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+    <skillDimension>unknown</skillDimension>
+    <TPPassage>CP010106.txt</TPPassage>
+    <Paragraph>4</Paragraph>
+  <Stem>6. The phrase |This arrangement| in the passage refers to</Stem>
+  
+  <Distractor_list>
+    <Distractor>the low number of joints on an arthropod</Distractor>
+    <Distractor>the absence of the exocuticle on certain parts of the body</Distractor>
+    <Distractor>the toughness of the exocuticle</Distractor>
+    <Distractor>the composition of the lipid coating</Distractor>
+  </Distractor_list>
+
+  <Key>2</Key>
+</TestItem>

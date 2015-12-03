@@ -1,0 +1,9 @@
+<TestItem CLASS="passage_insertText" METHOD="list">
+    <skillDimension>unknown</skillDimension>
+    <TPPassage>CP010114.txt</TPPassage>
+    <Stem>14. Look at the four squares [ |   | ] that indicate where the following sentence could be added.</Stem>
+    <Distractor_list>
+      <Distractor>While this process continues, the endocuticle is gradually shifted.</Distractor>
+    </Distractor_list>
+    <Key>2</Key>
+</TestItem>

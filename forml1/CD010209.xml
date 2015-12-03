@@ -1,0 +1,13 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CD010209.txt</TPPassage>
+<Stem>9. As discussed in the passage, a crest is</Stem>
+<Distractor_list>
+  <Distractor>(A) the most important member of a household</Distractor>
+  <Distractor>(B) the color of a particular flag</Distractor>
+  <Distractor>(C) the symbol of a particular family</Distractor>
+  <Distractor>(D) a European noble</Distractor>
+</Distractor_list>
+
+<Key>3</Key>
+</TestItem>
